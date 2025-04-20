@@ -1,0 +1,45 @@
+/* styles.css */
+
+.primary-button {
+    -fx-background-color: #28a745;
+    -fx-text-fill: white;
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-pref-height: 40px;
+}
+
+.secondary-button {
+    -fx-background-color: #17a2b8;
+    -fx-text-fill: white;
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-pref-height: 40px;
+}
+
+.link-button {
+    -fx-background-color: transparent;
+    -fx-text-fill: #007bff;
+    -fx-font-size: 14px;
+    -fx-underline: true;
+}
+
+.text-field {
+    -fx-font-size: 16px;
+    -fx-pref-height: 40px;
+}
+
+.text-area {
+    -fx-font-size: 16px;
+}
+
+.form-title {
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+    -fx-text-fill: white;
+}
+
+.input-label {
+    -fx-font-size: 18px;
+    -fx-text-fill: white;
+}
+
